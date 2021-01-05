@@ -40,7 +40,7 @@
                     <archive>
                         <manifest>
                             <!-- Provide complete main class details of the project (PackageName.Class) -->
-                            <mainClass>com.project.kafka.ProducerPackage.Producer</mainClass>
+                            <mainClass>com.project.kafka.producer.Producer</mainClass>
                         </manifest>
                     </archive>
                     <descriptorRefs>
